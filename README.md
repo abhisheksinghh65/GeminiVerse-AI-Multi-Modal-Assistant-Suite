@@ -23,10 +23,19 @@ This project is a versatile AI assistant that leverages Google's Gemini AI model
 - Python3
 - Google AI API key
 
-🖥️ Usage
+## 🖥️ Usage
 After starting the app, navigate through the sidebar to access different features:
 
 ChatBot: Enter your message and chat with the AI.
 Image Captioning: Upload an image and get an AI-generated caption.
 Embed Text: Input text to get its numerical embedding.
 Ask Me Anything: Ask general questions to the AI.
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check issues page.
+📝 License
+This project is MIT licensed.
+## 👏 Acknowledgements
+
+Google for providing the Gemini AI models
+Streamlit for the excellent web app framework
