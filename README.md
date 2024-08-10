@@ -39,3 +39,5 @@ This project is MIT licensed.
 
 Google for providing the Gemini AI models
 Streamlit for the excellent web app framework
+## project demo 📹
+ https://github.com/user-attachments/assets/5e4c06b4-fb96-4a09-bcda-d9dcad215e30
